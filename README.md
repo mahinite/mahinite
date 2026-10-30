@@ -179,7 +179,7 @@ AI tools are part of my workflow, but curiosity and understanding stay at the ce
 <a href="https://github.com/mahinite">
   <img
     width="100%"
-    src="/github-metrics.svg"
+    src="./github-metrics.svg"
     alt="Mahin's GitHub statistics, programming languages and contribution activity"
   />
 </a>
