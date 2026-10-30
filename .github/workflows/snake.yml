@@ -1,0 +1,40 @@
+
+name: Generate GitHub Contribution Snake
+
+on:
+  # Generate once every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual execution
+  workflow_dispatch:
+
+  # Also generate when README changes are pushed
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mahinite
+          outputs: |
+            dist/github-snake.svg?color_snake=%23D94551&color_dots=%23F1F5F9,%23F9DADA,%23F0A5A9,%23D94551,%23FBBF24
+            dist/github-snake-dark.svg?color_snake=%23D94551&color_dots=%230B0F17,%23212B3A,%235B3445,%23D94551,%23FBBF24
+
+      - name: Publish generated files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
