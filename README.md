@@ -1,17 +1,17 @@
 <div align="center">
 
 <a href="https://mahinite.pages.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F17,55:0D131F,100:D94551&amp;height=235&amp;section=header&amp;text=Mahin&amp;fontSize=54&amp;fontColor=F1F5F9&amp;font=Instrument+Serif&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20useful%20things%20with%20curiosity%20and%20intention.&amp;descSize=16&amp;descAlignY=59" alt="Mahin — Building useful things with curiosity and intention."/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,55:172235,100:D94551&amp;height=235&amp;section=header&amp;text=Mahin&amp;fontSize=54&amp;fontColor=FFFFFF&amp;font=Instrument+Serif&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Building%20useful%20things%20with%20curiosity%20and%20intention.&amp;descSize=16&amp;descAlignY=59" alt="Mahin — Building useful things with curiosity and intention."/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=14&amp;duration=2800&amp;pause=1000&amp;color=D94551&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=38&amp;lines=Turning+ideas+into+tools+worth+using.;Build.+Test.+Learn.+Refine.;Product+thinking+meets+hands-on+development." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=14&amp;duration=2800&amp;pause=1000&amp;color=F07880&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=38&amp;lines=Turning+ideas+into+tools+worth+using.;Build.+Test.+Learn.+Refine.;Product+thinking+meets+hands-on+development." alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://mahinite.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D131F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FBBF24" alt="Portfolio"/></a>
-<a href="https://github.com/mahinite?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D131F?style=for-the-badge&amp;logo=github&amp;logoColor=F1F5F9" alt="Projects"/></a>
-<a href="https://www.instagram.com/mahinite/"><img src="https://img.shields.io/badge/INSTAGRAM-0D131F?style=for-the-badge&amp;logo=instagram&amp;logoColor=D94551" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@mahinite"><img src="https://img.shields.io/badge/YOUTUBE-0D131F?style=for-the-badge&amp;logo=youtube&amp;logoColor=FBBF24" alt="YouTube"/></a>
+<a href="https://mahinite.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-202B3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FBBF24" alt="Portfolio"/></a>
+<a href="https://github.com/mahinite?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-202B3C?style=for-the-badge&amp;logo=github&amp;logoColor=F1F5F9" alt="Projects"/></a>
+<a href="https://www.instagram.com/mahinite/"><img src="https://img.shields.io/badge/INSTAGRAM-202B3C?style=for-the-badge&amp;logo=instagram&amp;logoColor=D94551" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@mahinite"><img src="https://img.shields.io/badge/YOUTUBE-202B3C?style=for-the-badge&amp;logo=youtube&amp;logoColor=FBBF24" alt="YouTube"/></a>
 
 <br/><br/>
 
@@ -88,15 +88,11 @@ A local-first idea workspace for collecting hooks, references, and creative conc
 
 **Pick a task. Focus. Execute.**
 
-A lightweight task and focus app built around one active task at a time. A small experiment in making a focused workflow feel simple and distraction-free.
+A lightweight productivity assistant built around tasks, a focus bar, and Pomodoro sessions. An experiment in making focused workflows feel simple and distraction-free.
 
 <br/>
 
-<code>REACT</code> &nbsp; <code>TYPESCRIPT</code> &nbsp; <code>ZUSTAND</code> &nbsp; <code>PWA</code>
-
-<br/>
-
-<a href="https://tawt.pages.dev">Live site ↗</a>
+<code>REACT</code> &nbsp; <code>VITE</code> &nbsp; <code>TAURI</code>
 
 </td>
 </tr>
@@ -107,7 +103,7 @@ A lightweight task and focus app built around one active task at a time. A small
 
 **A calmer place for study notes.**
 
-A notebook-inspired study app for organising learning material into rooms, subjects, chapters, and documents. The current MVP includes authentication and core note organisation.
+A notebook-inspired study app for organising learning material into rooms, subjects, chapters, and documents.
 
 <br/>
 
@@ -181,15 +177,16 @@ AI tools are part of my workflow, but curiosity and understanding stay at the ce
 <br/>
 
 <a href="https://github.com/mahinite">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahinite&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0F17&amp;title_color=F1F5F9&amp;text_color=94A3B8&amp;icon_color=D94551&amp;ring_color=FBBF24" alt="Mahin's GitHub statistics"/>
-</a>
-<a href="https://github.com/mahinite">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahinite&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0F17&amp;title_color=F1F5F9&amp;text_color=94A3B8&amp;langs_count=8" alt="Most-used programming languages"/>
+  <img
+    width="100%"
+    src="/github-metrics.svg"
+    alt="Mahin's GitHub statistics, programming languages and contribution activity"
+  />
 </a>
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mahinite&amp;theme=transparent&amp;hide_border=true&amp;background=0B0F17&amp;ring=D94551&amp;fire=FBBF24&amp;currStreakLabel=D94551&amp;sideLabels=F1F5F9&amp;dates=94A3B8" alt="GitHub contribution streak"/>
+<sub>Statistics, languages and contribution activity — generated automatically with GitHub Actions.</sub>
 
 </div>
 
@@ -197,21 +194,31 @@ AI tools are part of my workflow, but curiosity and understanding stay at the ce
 
 <div align="center">
 
-### `06` &nbsp; THE ACTIVITY FEED
+### `06` &nbsp; THE CONTRIBUTION TRAIL
 
-*Small steps add up. Here's the commit trail.*
-
-<a href="https://github.com/mahinite">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahinite&amp;bg_color=0B0F17&amp;color=94A3B8&amp;line=D94551&amp;point=FBBF24&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Mahin's GitHub activity graph"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/mahinite/mahinite/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+*Small steps add up. Every contribution has a story.*
 
 <br/>
 
-<sub>The contribution snake is generated automatically with GitHub Actions.</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mahinite/mahinite/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mahinite/mahinite/output/github-snake.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/mahinite/mahinite/output/github-snake.svg"
+    alt="Mahin's animated GitHub contribution snake"
+  />
+</picture>
+
+<br/>
+
+<sub>Contribution animation generated automatically with GitHub Actions.</sub>
 
 </div>
 
@@ -225,8 +232,8 @@ I enjoy the creative side of building things too — visual design, motion, and 
 
 <br/><br/>
 
-<a href="https://www.instagram.com/mahinite/"><img src="https://img.shields.io/badge/INSTAGRAM-0D131F?style=for-the-badge&amp;logo=instagram&amp;logoColor=D94551" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@mahinite"><img src="https://img.shields.io/badge/YOUTUBE-0D131F?style=for-the-badge&amp;logo=youtube&amp;logoColor=FBBF24" alt="YouTube"/></a>
+<a href="https://www.instagram.com/mahinite/"><img src="https://img.shields.io/badge/INSTAGRAM-202B3C?style=for-the-badge&amp;logo=instagram&amp;logoColor=D94551" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@mahinite"><img src="https://img.shields.io/badge/YOUTUBE-202B3C?style=for-the-badge&amp;logo=youtube&amp;logoColor=FBBF24" alt="YouTube"/></a>
 
 <br/><br/>
 
@@ -249,7 +256,7 @@ I enjoy the creative side of building things too — visual design, motion, and 
 <sub>PORTFOLIO COLOUR SYSTEM</sub>
 
 <img src="https://img.shields.io/badge/BASE-0B0F17?style=flat-square&amp;labelColor=0B0F17" alt="Base navy"/>
-<img src="https://img.shields.io/badge/SURFACE-0D131F?style=flat-square&amp;labelColor=0D131F" alt="Surface navy"/>
+<img src="https://img.shields.io/badge/SURFACE-111827?style=flat-square&amp;labelColor=111827" alt="Surface navy"/>
 <img src="https://img.shields.io/badge/TEXT-F1F5F9?style=flat-square&amp;labelColor=F1F5F9" alt="Text"/>
 <img src="https://img.shields.io/badge/MUTED-94A3B8?style=flat-square&amp;labelColor=94A3B8" alt="Muted slate"/>
 <img src="https://img.shields.io/badge/ACCENT-D94551?style=flat-square&amp;labelColor=D94551" alt="Red accent"/>
