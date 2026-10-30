@@ -28,8 +28,8 @@ jobs:
         with:
           github_user_name: mahinite
           outputs: |
-            dist/github-snake.svg?color_snake=%23D94551&color_dots=%23F1F5F9,%23F9DADA,%23F0A5A9,%23D94551,%23FBBF24
-            dist/github-snake-dark.svg?color_snake=%23D94551&color_dots=%230B0F17,%23212B3A,%235B3445,%23D94551,%23FBBF24
+  dist/github-snake.svg?color_snake=%23D94551&color_dots=%23E2E8F0,%23F9DADA,%23F0A5A9,%23D94551,%23FBBF24
+  dist/github-snake-dark.svg?color_snake=%23F07880&color_dots=%23243247,%2334465E,%23627D9E,%23D94551,%23FBBF24
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
